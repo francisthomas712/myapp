@@ -11,7 +11,7 @@ gem 'turbolinks', '~> 5'
 gem 'sdoc', '>= 0.4.0', group: :doc
 gem 'devise'
 gem 'jbuilder', github: 'rails/jbuilder', branch: 'master'
-
+gem 'activeadmin'
 group :development, :test do
   gem 'byebug'
   gem 'sqlite3', '~> 1.4'
